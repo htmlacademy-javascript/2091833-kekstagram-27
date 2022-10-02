@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Евгений Нечепорук](https://up.htmlacademy.ru/javascript/27/user/2091833).
-* Наставник: `Неизвестно`.
+- Студент: [Евгений Нечепорук](https://up.htmlacademy.ru/javascript/27/user/2091833).
+- Наставник: [Владимир Якушкин] (https://htmlacademy.ru/profile/id126208).
 
 ---
 
